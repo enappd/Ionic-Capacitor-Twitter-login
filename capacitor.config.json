@@ -6,8 +6,8 @@
   "webDir": "build",
   "plugins": {
     "TwitterPlugin": {
-      "consumerKey": "lRgADRSkSaDJ6IrIZ3JAFQhKk",
-      "consumerSecret": "2YUxBHCprQIs4DpddM9IM51ilSx0y02BDnONl4gVTolCHV5viY"
+      "consumerKey": "YOUR_CONSUMER_KEY",
+      "consumerSecret": "YOUR_CONSUMER_SECRET"
     }
   }
 }

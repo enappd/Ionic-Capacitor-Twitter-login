@@ -1,7 +1,7 @@
 const functions = require('firebase-functions');
 var request = require('request');
 
-const bearer_token = "AAAAAAAAAAAAAAAAAAAAAC%2FY9gAAAAAAnFcdd9x6393qSRl1XfrwReioweU%3DQ73reDyQn22fkob8VqdhDh0YpCpKnSY2AwmlUS8b8D7p9lDHOU";
+const bearer_token = "YOUR_BEARER_TOKEN";
 const bearer = 'Bearer ' + bearer_token;
 
 exports.getUserInfo = functions.https.onRequest((req, res) => {

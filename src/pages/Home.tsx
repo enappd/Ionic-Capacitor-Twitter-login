@@ -8,7 +8,6 @@ const INITIAL_STATE = {
   loggedIn: true,
   user: {}
 };
-const bearer_token = "AAAAAAAAAAAAAAAAAAAAAC%2FY9gAAAAAAnFcdd9x6393qSRl1XfrwReioweU%3DQ73reDyQn22fkob8VqdhDh0YpCpKnSY2AwmlUS8b8D7p9lDHOU";
 class Home extends Component {
   state: any = {};
   props: any = {};
@@ -28,7 +27,6 @@ class Home extends Component {
   }
 
   async getUserInfo() {
-    const bearer = 'Bearer ' + bearer_token;
     const url = `https://us-central1-auth-demos.cloudfunctions.net/getUserInfo`;
     const response = await fetch(url, {
       method: 'POST',
