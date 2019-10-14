@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">IonCapTwitter</string>
+    <string name="title_activity_main">IonCapTwitter</string>
+    <string name="package_name">com.enappd.ionic4twitterauth</string>
+    <string name="fileprovider_authority">com.enappd.ionic4twitterauth.fileprovider</string>
+    <string name="custom_url_scheme">com.enappd.ionic4twitterauth</string>
+</resources>

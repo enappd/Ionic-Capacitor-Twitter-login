@@ -1,0 +1,7 @@
+{
+  "name": "IonCapTwitter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

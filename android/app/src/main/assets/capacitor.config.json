@@ -1,0 +1,13 @@
+{
+  "appId": "com.enappd.ionic4twitterauth",
+  "appName": "IonCapTwitter",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "TwitterPlugin": {
+      "consumerKey": "lRgADRSkSaDJ6IrIZ3JAFQhKk",
+      "consumerSecret": "2YUxBHCprQIs4DpddM9IM51ilSx0y02BDnONl4gVTolCHV5viY"
+    }
+  }
+}
