@@ -1,5 +1,5 @@
 # Ionic-Capacitor-Twitter-login
-Demo for Ionic Capacitor Twitter login tutorial. Tested on Android
+Demo for Ionic Capacitor Twitter login tutorial. Tested on Android. Detailed blog - [Twitter login in Ionic React Capacitor apps](https://enappd.com/blog/twitter-login-in-ionic-react-capacitor-app/121)
 
 
 # Explore Enappd Store
